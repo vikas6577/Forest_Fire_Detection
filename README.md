@@ -1,3 +1,4 @@
+# Forest_Fire_Detection
 Forest Fire Detection Using Convolutional Neural Networks and ThingSpeak API
 
 This project aims to develop a deep learning model that can detect fires in real-time using a webcam or video footage. The model is built using Convolutional Neural Networks (CNNs) and trained on a dataset of images containing both fire and non-fire scenarios.
